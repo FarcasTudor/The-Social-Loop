@@ -1,0 +1,5 @@
+.sidebarItem:hover {
+    -fx-background-color: #CA9AFC;
+    -fx-border-color: WHITE;
+    -fx-border-width: 2px;
+}
